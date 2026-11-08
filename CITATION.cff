@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you refer to this analysis, please cite it as below."
+title: "Mitophagy in alcohol-related liver disease: a reanalysis of four public human liver transcriptome cohorts"
+abstract: >-
+  Independent reanalysis of GSE28619, GSE103580, GSE143318 and GSE270042 testing whether
+  mitophagy gene expression is specifically altered in alcohol-related liver disease.
+  Pathway-level enrichment is shown to track hepatocyte and mitochondrial content rather
+  than pathway-specific regulation; gene-level signals, notably BNIP3, survive the
+  confounding.
+type: dataset
+authors:
+  - family-names: Mamukuyomi
+    given-names: Oladipupo
+repository-code: "https://github.com/oladipupo-m/mitophagy-ald-transcriptomics"
+license: MIT
+keywords:
+  - mitophagy
+  - alcohol-related liver disease
+  - transcriptomics
+  - gene set enrichment analysis
+  - reproducible research

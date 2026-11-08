@@ -1,0 +1,199 @@
+sample_id,dataset,platform,assay,value_type,group_raw,group_harmonised,is_control,severity_rank,patient,timepoint,treatment,library_size,size_factor,flag_low_depth,gsm_linked
+GSM709348,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,Normal,Normal liver,True,0,,,,,,False,True
+GSM709349,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,Normal,Normal liver,True,0,,,,,,False,True
+GSM709350,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,Normal,Normal liver,True,0,,,,,,False,True
+GSM709351,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,Normal,Normal liver,True,0,,,,,,False,True
+GSM709352,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,Normal,Normal liver,True,0,,,,,,False,True
+GSM709353,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,Normal,Normal liver,True,0,,,,,,False,True
+GSM709354,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,Normal,Normal liver,True,0,,,,,,False,True
+GSM709355,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,AH,Alcoholic hepatitis,False,3,,,,,,False,True
+GSM709356,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,AH,Alcoholic hepatitis,False,3,,,,,,False,True
+GSM709357,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,AH,Alcoholic hepatitis,False,3,,,,,,False,True
+GSM709358,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,AH,Alcoholic hepatitis,False,3,,,,,,False,True
+GSM709359,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,AH,Alcoholic hepatitis,False,3,,,,,,False,True
+GSM709360,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,AH,Alcoholic hepatitis,False,3,,,,,,False,True
+GSM709361,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,AH,Alcoholic hepatitis,False,3,,,,,,False,True
+GSM709362,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,AH,Alcoholic hepatitis,False,3,,,,,,False,True
+GSM709363,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,AH,Alcoholic hepatitis,False,3,,,,,,False,True
+GSM709364,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,AH,Alcoholic hepatitis,False,3,,,,,,False,True
+GSM709365,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,AH,Alcoholic hepatitis,False,3,,,,,,False,True
+GSM709366,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,AH,Alcoholic hepatitis,False,3,,,,,,False,True
+GSM709367,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,AH,Alcoholic hepatitis,False,3,,,,,,False,True
+GSM709368,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,AH,Alcoholic hepatitis,False,3,,,,,,False,True
+GSM709369,GSE28619,GPL570 Affymetrix HG-U133 Plus 2.0,microarray,log2 intensity,AH,Alcoholic hepatitis,False,3,,,,,,False,True
+GSM2774700,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774701,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774702,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774703,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774704,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,MildAH,Mild alcoholic hepatitis,False,2,,,,,,False,True
+GSM2774705,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,MildAH,Mild alcoholic hepatitis,False,2,,,,,,False,True
+GSM2774706,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774707,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774708,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774709,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774710,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774711,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774712,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774713,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774714,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774715,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774716,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774717,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774718,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774719,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774720,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774721,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774722,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774723,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774724,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774725,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774726,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774727,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774728,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774729,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774730,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774731,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774732,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774733,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774734,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774735,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774736,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774737,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Steatosis,Alcoholic steatosis,False,1,,,,,,False,True
+GSM2774738,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Steatosis,Alcoholic steatosis,False,1,,,,,,False,True
+GSM2774739,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Steatosis,Alcoholic steatosis,False,1,,,,,,False,True
+GSM2774740,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Steatosis,Alcoholic steatosis,False,1,,,,,,False,True
+GSM2774741,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Steatosis,Alcoholic steatosis,False,1,,,,,,False,True
+GSM2774742,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Steatosis,Alcoholic steatosis,False,1,,,,,,False,True
+GSM2774743,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,MildAH,Mild alcoholic hepatitis,False,2,,,,,,False,True
+GSM2774744,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,MildAH,Mild alcoholic hepatitis,False,2,,,,,,False,True
+GSM2774745,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,MildAH,Mild alcoholic hepatitis,False,2,,,,,,False,True
+GSM2774746,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,MildAH,Mild alcoholic hepatitis,False,2,,,,,,False,True
+GSM2774747,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,MildAH,Mild alcoholic hepatitis,False,2,,,,,,False,True
+GSM2774748,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,MildAH,Mild alcoholic hepatitis,False,2,,,,,,False,True
+GSM2774749,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,MildAH,Mild alcoholic hepatitis,False,2,,,,,,False,True
+GSM2774750,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,MildAH,Mild alcoholic hepatitis,False,2,,,,,,False,True
+GSM2774751,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,MildAH,Mild alcoholic hepatitis,False,2,,,,,,False,True
+GSM2774752,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,MildAH,Mild alcoholic hepatitis,False,2,,,,,,False,True
+GSM2774753,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,MildAH,Mild alcoholic hepatitis,False,2,,,,,,False,True
+GSM2774754,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774755,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774756,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774757,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774758,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774759,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774760,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774761,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774762,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774763,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774764,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774765,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774766,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774767,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774768,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774769,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774770,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774771,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774772,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774773,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774774,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774775,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774776,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774777,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774778,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774779,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774780,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774781,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774782,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774783,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774784,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+GSM2774785,GSE103580,GPL13667 Affymetrix HG-U219,microarray,log2 intensity,Cirrhosis,Alcoholic cirrhosis,False,4,,,,,,False,True
+N1,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,Normal,Donor liver,True,0,,,,35334654.0,0.6941180745943021,False,False
+N2,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,Normal,Donor liver,True,0,,,,35503132.0,0.6253724135762393,False,False
+N3,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,Normal,Donor liver,True,0,,,,35472377.0,0.6950172303283896,False,False
+N4,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,Normal,Donor liver,True,0,,,,35471616.0,0.8038345667074449,False,False
+N5,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,Normal,Donor liver,True,0,,,,35546564.0,0.6836981408502799,False,False
+N6,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,Normal,Donor liver,True,0,,,,35574809.0,0.9235070781439011,False,False
+N8,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,Normal,Donor liver,True,0,,,,35657040.0,0.7273477166255878,False,False
+AC1,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,AlcCirrhosis,Alcoholic cirrhosis,False,4,,,,35419905.0,1.0257136852888646,False,False
+AC2,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,AlcCirrhosis,Alcoholic cirrhosis,False,4,,,,35500768.0,0.8735002093935025,False,False
+AC3,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,AlcCirrhosis,Alcoholic cirrhosis,False,4,,,,35523844.0,0.8553990544111346,False,False
+AC4,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,AlcCirrhosis,Alcoholic cirrhosis,False,4,,,,35397629.0,1.1702520805531669,False,False
+AC5,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,AlcCirrhosis,Alcoholic cirrhosis,False,4,,,,35336968.0,1.2454322489620862,False,False
+AH1,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,AH,Alcoholic hepatitis,False,3,,,,34316373.0,1.3586951592900143,False,False
+AH2,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,AH,Alcoholic hepatitis,False,3,,,,34989859.0,1.1744909764699916,False,False
+AH3,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,AH,Alcoholic hepatitis,False,3,,,,34595596.0,1.416500333298034,False,False
+AH4,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,AH,Alcoholic hepatitis,False,3,,,,35172724.0,1.2818036064035616,False,False
+AH5,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,AH,Alcoholic hepatitis,False,3,,,,34182450.0,1.3770115185640788,False,False
+AH6,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,AH,Alcoholic hepatitis,False,3,,,,35454541.0,1.2902130363706983,False,False
+AH8,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,AH,Alcoholic hepatitis,False,3,,,,35475026.0,1.3804877852548763,False,False
+AH51,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,AH,Alcoholic hepatitis,False,3,,,,35211776.0,1.1643826934407147,False,False
+AH53,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,AH,Alcoholic hepatitis,False,3,,,,35100293.0,1.2174441247825514,False,False
+AH57,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,AH,Alcoholic hepatitis,False,3,,,,35048607.0,0.9054311036407553,False,False
+AH60,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,AH,Alcoholic hepatitis,False,3,,,,35190342.0,1.1634758574853368,False,False
+AH63,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,AH,Alcoholic hepatitis,False,3,,,,35149737.0,1.1003349769837443,False,False
+AH64,GSE143318,GPL18573 Illumina NextSeq 500,RNA-seq,integer counts,AH,Alcoholic hepatitis,False,3,,,,35234914.0,0.9481294297042733,False,False
+1019_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,1019.0,d0,Placebo,37008510.0,2.737787311598853,False,True
+1019_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,1019.0,d28,Placebo,20403979.0,1.2699501538696893,False,True
+1023_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,1023.0,d0,Placebo,35463017.0,1.694707608011752,False,True
+1023_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,1023.0,d28,Placebo,25570930.0,1.6244077186399064,False,True
+1029_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,1029.0,d0,Canakinumab,28980736.0,1.6187696776561604,False,True
+1029_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,1029.0,d28,Canakinumab,36305767.0,1.8959236220648923,False,True
+106_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,106.0,d0,Canakinumab,18849049.0,1.207646158629046,False,True
+1077_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,1077.0,d0,Placebo,20924335.0,1.5508566982954637,False,True
+1077_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,1077.0,d28,Placebo,28043278.0,1.8346746699631784,False,True
+108_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,108.0,d0,Placebo,28442064.0,2.109240325078146,False,True
+108_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,108.0,d28,Placebo,13118055.0,0.19973293251065577,False,True
+1143_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,1143.0,d0,Placebo,24636516.0,1.7672632522881435,False,True
+1143_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,1143.0,d28,Placebo,21515795.0,1.0956815510593376,False,True
+116_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,116.0,d0,Placebo,33210450.0,2.194425267565364,False,True
+116_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,116.0,d28,Placebo,21464093.0,1.1357641485499699,False,True
+133_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,133.0,d0,Placebo,28903997.0,2.222403654239857,False,True
+133_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,133.0,d28,Placebo,32452260.0,2.248403370180856,False,True
+146_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,146.0,d0,Canakinumab,23963293.0,1.7311241446166643,False,True
+146_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,146.0,d28,Canakinumab,6605245.0,0.16591924652421422,True,True
+156_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,156.0,d0,Placebo,26278036.0,1.8424137570066075,False,True
+156_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,156.0,d28,Placebo,10720533.0,0.15671175163817333,False,True
+1672_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,1672.0,d0,Placebo,31619418.0,2.7151496813992444,False,True
+1672_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,1672.0,d28,Placebo,29405939.0,1.9136700650791099,False,True
+179_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,179.0,d0,Canakinumab,35335157.0,2.6345302319991886,False,True
+179_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,179.0,d28,Canakinumab,24463839.0,1.8057986917402766,False,True
+180_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,180.0,d0,Placebo,30413258.0,2.3033774530975606,False,True
+180_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,180.0,d28,Placebo,33357486.0,2.233525566134977,False,True
+302_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,302.0,d0,Canakinumab,17773068.0,1.2197309484328165,False,True
+302_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,302.0,d28,Canakinumab,10598333.0,0.6364862240916634,False,True
+303_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,303.0,d0,Placebo,15946897.0,1.1262473780739637,False,True
+303_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,303.0,d28,Placebo,2146429.0,0.00983741603091911,True,True
+307_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,307.0,d0,Placebo,13211057.0,0.8142436394398364,False,True
+307_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,307.0,d28,Placebo,10981575.0,0.4610562538307306,False,True
+310_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,310.0,d0,Canakinumab,19111675.0,1.2179029448967753,False,True
+310_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,310.0,d28,Canakinumab,19936916.0,0.8420469223575745,False,True
+311_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,311.0,d0,Placebo,9653203.0,0.1410350468369909,True,True
+311_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,311.0,d28,Placebo,22167164.0,1.6398207058191772,False,True
+313_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,313.0,d0,Canakinumab,7703984.0,0.046123190368977926,True,True
+313_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,313.0,d28,Canakinumab,15117918.0,0.6140414171250811,False,True
+332_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,332.0,d0,Canakinumab,12848688.0,0.7079265202800731,False,True
+332_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,332.0,d28,Canakinumab,7120878.0,0.19631335654977308,True,True
+341_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,341.0,d0,Placebo,5124380.0,0.023497795341865246,True,True
+341_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,341.0,d28,Placebo,27744094.0,1.5955085624508818,False,True
+355_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,355.0,d0,Canakinumab,20504044.0,1.6711909968954701,False,True
+355_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,355.0,d28,Canakinumab,12324139.0,0.906657288932136,False,True
+358_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,358.0,d0,Placebo,24468639.0,1.6139187502527905,False,True
+358_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,358.0,d28,Placebo,30501504.0,1.7574835162022142,False,True
+360_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,360.0,d0,Canakinumab,37683883.0,2.500244642957267,False,True
+360_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,360.0,d28,Canakinumab,36037975.0,2.288887511739721,False,True
+363_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,363.0,d0,Placebo,5789215.0,0.18761263357967867,True,True
+363_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,363.0,d28,Placebo,14130124.0,1.00232226142617,False,True
+370_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,370.0,d0,Canakinumab,20949372.0,1.2747962683422431,False,True
+370_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,370.0,d28,Canakinumab,15668197.0,0.9947054390422653,False,True
+375_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,375.0,d0,Canakinumab,17573104.0,1.3507536328899201,False,True
+375_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,375.0,d28,Canakinumab,19646621.0,1.416469638858005,False,True
+376_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,376.0,d0,Canakinumab,16009958.0,1.0130610822132071,False,True
+376_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,376.0,d28,Canakinumab,17714029.0,1.2539044835039221,False,True
+605_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,605.0,d0,Placebo,28169407.0,1.831999309495528,False,True
+605_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,605.0,d28,Placebo,35608817.0,2.133564608092203,False,True
+620_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,620.0,d0,Canakinumab,40948175.0,3.146236083304778,False,True
+620_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,620.0,d28,Canakinumab,29984810.0,1.8492560291525992,False,True
+668_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,668.0,d0,Canakinumab,32357015.0,2.168074262048216,False,True
+668_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,668.0,d28,Canakinumab,24326269.0,1.3921417730589416,False,True
+673_d0,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d0,Alcoholic hepatitis (day 0),False,3,673.0,d0,Placebo,23423569.0,1.7358395483943285,False,True
+673_d28,GSE270042,GPL30173 Illumina NextSeq 2000,RNA-seq,integer counts,d28,Alcoholic hepatitis (day 28),False,3,673.0,d28,Placebo,16678246.0,0.9933403913204939,False,True

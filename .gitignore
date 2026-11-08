@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- analysis-specific ---
+data/raw/              # fetched from GEO by code/download_data.py; never committed
+*.h5ad
+*.rds
+.Rhistory
+.RData
+.DS_Store
