@@ -1,0 +1,6 @@
+dataset,contrast,n,sig_orig,sig_alt,overlap,jaccard,dir_agree_shared,dir_agree_all,rank_corr
+GSE28619,AH vs Normal,21439,6164,6006,5500,0.825,1.0,1.0,0.909
+GSE103580,ALD severity trend,19455,980,1671,910,0.523,1.0,0.912,0.875
+GSE143318,AH vs Normal,18898,11060,11045,7449,0.508,0.968,0.739,0.4
+GSE143318,AlcCirrhosis vs Normal,18898,6591,5957,3668,0.413,1.0,0.721,0.315
+GSE270042,day28 vs day0 (paired),23592,1069,187,143,0.128,1.0,0.675,0.217
